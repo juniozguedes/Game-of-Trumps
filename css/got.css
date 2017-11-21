@@ -1,0 +1,20 @@
+.ball{
+width:100px;
+height: 100px;
+border-radius:100%;
+position:absolute!important;
+}
+#center{
+position: absolute!important;
+height: 99%!important;
+overflow: hidden;
+/*position: relative !important;*/
+}
+#counter{
+	position: center;
+	font-weight: bold;
+	font-size: 30px;
+}
+body{
+overflow: hidden;
+		}
