@@ -1,6 +1,6 @@
 # Game of Trumps
 
-Pop awesome wild Trumps over the browser!
+Pop awesome wild Trumps over the browser! Balloon pop type game
 
 No political intentions here, just a small JS project using a notorious and funny figure
 
